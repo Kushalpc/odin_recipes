@@ -27,3 +27,29 @@ h1{
 #link{
     font-size: larger;
 }
+.container{
+    margin: 10px auto;
+    padding: 10px;
+    width: 50%;
+}
+.container div{
+    margin: 20px auto; 
+    padding:10px 10px ;
+    border: 1px solid rgb(0, 0, 0);
+    width: 70%;
+
+
+}
+.cont1{
+    background-color: rgb(214, 214, 236);
+}
+.cont2{
+    background-color: rgb(230, 157, 157);
+}
+.cont3{
+    background-color: orange;
+}
+.direction{
+    width: 50%;
+    margin: 10px auto;
+}
